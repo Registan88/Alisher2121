@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alisher2121
+- 👋 Hi, I’m @Alisher
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on a projects with another brand or business.
